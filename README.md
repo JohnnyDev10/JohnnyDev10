@@ -41,7 +41,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate and innovative developer specializing in **Java**, **Spring Boot**, and the **MERN Stack**. 🚀  
+I'm a passionate and innovative developer specializing in **Python**, **Java**, and the **MERN Stack**. 🚀  
 I thrive on solving **real-world problems** and crafting **user-centric solutions** that make a difference. Whether it’s **building scalable web apps**, **optimizing performance**, or **enhancing user experiences**, I’m always excited to dive into new challenges.
 
 I’m also a **competitive programmer**, constantly improving my problem-solving skills and participating in coding contests on platforms like **Codeforces**, **LeetCode**, and **HackerRank**. 💻
@@ -51,7 +51,7 @@ I’m also a **competitive programmer**, constantly improving my problem-solving
 
 I’m a passionate **competitive programmer** with a focus on solving challenging problems and constantly improving my skills through platforms like **LeetCode**, **Codeforces**, **HackerRank**, and **CodeChef**.
 
-### 🏆 My Coding Profiles
+<!-- ### 🏆 My Coding Profiles
 
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://leetcode.com/u/karthikeyan30/" target="_blank">
@@ -85,7 +85,7 @@ I’m a passionate **competitive programmer** with a focus on solving challengin
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karkeys1108&show_icons=true&count_private=true&hide=prs&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkeys1108&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=karkeys1108&theme=radical) -->
 
 
 
@@ -151,7 +151,7 @@ Worked on Sustainable Development Goals (SDGs) with a tech-driven mindset.
 ### 🌟 Additional Highlights
 -  Always exploring **emerging technologies** and keen on **continuous learning**
 
- -  Fluent in **English** & **Tamil**, with a basic understanding of **German**  
+ <!-- -  Fluent in **English** & **Tamil**, with a basic understanding of **German**   -->
  - Collaborative, problem-solving mindset, ready for new opportunities to grow
 
 
