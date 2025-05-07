@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FEEF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Java+Developer;Open+Source+Contributor;Competetive+Programmer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Web+Developer;AI+Enthusiast;Open+Source+Contributor;Competetive+Programmer" alt="Typing Animation" />
 </p>
 
 
